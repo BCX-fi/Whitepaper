@@ -1,2 +1,1 @@
-# Whitepaper
-Bitcoin Classic (BCX)
+✶ Not Your Keys, Not Your Coins ✶
