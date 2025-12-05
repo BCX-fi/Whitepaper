@@ -20,11 +20,14 @@
            LP Token        : https://solscan.io/token/5E9tkiHJmLtg8vNu6dGdY5d5Yz2yCU6wzXRe1Kkwj5Gk
            Locked LP Token : https://solscan.io/token/8KuFybvtoAUeyVA28FrwfhX2pjsAUZrTNCGTXzzhRgGf
 
+
+4). Liquidity Pool on Raydium
+    Pool-ID  J2bwkmS3X9NYabebf6Eqf5KhAmSLDkoCrNjL5WTshUgg
     ✓ Locked Amount  6,035,516 BCX
            LP Token        : https://solscan.io/token/EoCLo3AozsjDhoYB5eeqwFQrmNnn7S3WRQLQPaPGUMzy
            Locked LP Token : Currently being locked (awaiting confirmation).
 
 
-4). Other Liquidity Pools — 1,984 BCX
+5). Other Liquidity Pools — 1,984 BCX
 
 NOTE: LP tokens are issued to liquidity providers as proof of their contribution to the liquidity pool. Locked LP tokens cannot be withdrawn to ensure pool stability.
